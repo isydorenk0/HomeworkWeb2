@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<candies>
+    <candy>
+        <name>crazy bee</name>
+        <energy>100</energy>
+        <type>jelly</type>
+        <ingredients>
+            <sugar>20</sugar>
+            <fructose>10</fructose>
+            <citric_acid>5</citric_acid>
+            <natural_flavor>true</natural_flavor>
+            <artificial_flavor>true</artificial_flavor>
+        </ingredients>
+        <production>roshen</production>
+    </candy>
+    <candy>
+        <name>sharm</name>
+        <energy>100</energy>
+        <type>chocolate</type>
+        <ingredients>
+            <sugar>20</sugar>
+            <fructose>10</fructose>
+            <citic_acid>5</citic_acid>
+            <natural_flavor>false</natural_flavor>
+            <artificial_flavor>true</artificial_flavor>
+        </ingredients>
+        <production>abk</production>
+    </candy>
+</candies>
